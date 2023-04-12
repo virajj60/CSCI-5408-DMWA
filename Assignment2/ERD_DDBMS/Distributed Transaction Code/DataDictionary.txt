@@ -1,0 +1,6 @@
+equipments,remote
+user,local
+egiftcard,local
+parks,local
+eventapplication,remote
+reservation,remote
